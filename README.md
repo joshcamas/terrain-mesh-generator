@@ -3,4 +3,3 @@ Generates a mesh based on a Unity Terrain. Includes a "quality" setting which de
 
 ## Usage
 ``TerrainChunkExporter.ConvertTerrainToMesh(terrain, terrainQuality)``
-Terrain Quality
